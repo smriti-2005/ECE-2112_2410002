@@ -49,7 +49,7 @@ _**Heaven’s Light is Our Guide**_
 | Lab No. | Title | Link | Raw Latex |
 | :---: | :---: | :---: | :---: |
 | Lab 00 | Process of installing LOGISIM EVOLUTION | [Lab 00]() |  |
-|Lab 01 | Implementation of Logic Gates Using Universal Gates,<br>Full Adder and Binary to BCD Converter | [Lab 01]() | [Latex01]() |
+|Lab 01 | Implementation of Logic Gates Using Universal Gates,<br>Full Adder and Binary to BCD Converter | [Lab 01](https://github.com/smriti-2005/ECE-2112_2410002/blob/main/LAB%20Reports/DT_lab_11.pdf) | [Latex01](https://www.overleaf.com/project/6a64bed7c3112820b78040ee) |
 
 
 </div># ECE-2112_2410002

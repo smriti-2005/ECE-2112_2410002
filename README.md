@@ -48,8 +48,8 @@ _**Heaven’s Light is Our Guide**_
 
 | Lab No. | Title | Link | Raw Latex |
 | :---: | :---: | :---: | :---: |
-| Lab 00 | Process of installing LOGISIM EVOLUTION | [Lab 00](https://github.com/Kefayat-Simum/ECE-2112_2410004/blob/main/Lab_Reports/Lab_00.md) |  |
-|Lab 01 | Implementation of Logic Gates Using Universal Gates,<br>Full Adder and Binary to BCD Converter | [Lab 01](https://github.com/Kefayat-Simum/ECE-2112_2410004/blob/main/Lab_Reports/DT01.pdf) | [Latex01](https://github.com/Kefayat-Simum/ECE-2112_2410004/tree/main/Lab_Reports/Lab01) |
+| Lab 00 | Process of installing LOGISIM EVOLUTION | [Lab 00]() |  |
+|Lab 01 | Implementation of Logic Gates Using Universal Gates,<br>Full Adder and Binary to BCD Converter | [Lab 01]() | [Latex01]() |
 
 
 </div># ECE-2112_2410002
